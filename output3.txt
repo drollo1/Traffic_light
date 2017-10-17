@@ -1,0 +1,5 @@
+ Number of Vehicles that cleared intersection: 28
+ Number of motorcycles that cleared intersection: 12
+ Number of cars that cleared intersection: 12
+ Number of trucks that cleared intersection: 4
+ Average wait time: 10.8571
